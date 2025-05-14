@@ -1,0 +1,27 @@
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\DAL\bin\Debug\DAL.dll
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\DAL\bin\Debug\DAL.pdb
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\DAL\bin\Debug\DTO.dll
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\DAL\bin\Debug\DTO.pdb
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\DAL\obj\Debug\DAL.dll
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\DAL\obj\Debug\DAL.pdb
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\DAL\bin\Debug\DAL.dll
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\DAL\bin\Debug\DAL.pdb
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\DAL\bin\Debug\DTO.dll
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\DAL\bin\Debug\DTO.pdb
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\DAL\obj\Debug\DAL.dll
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\DAL\obj\Debug\DAL.pdb
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\DAL\bin\Debug\DAL.dll
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\DAL\bin\Debug\DAL.pdb
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\DAL\bin\Debug\DTO.dll
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\DAL\bin\Debug\DTO.pdb
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\DAL\obj\Debug\DAL.dll
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\DAL\obj\Debug\DAL.pdb

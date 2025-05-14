@@ -1,0 +1,81 @@
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.AdminAddUsers.resources
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.AdminDashboard.resources
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.login.resources
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.MainForm.resources
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\GUI.exe.config
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\GUI.exe
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\GUI.pdb
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\BLL.dll
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\DTO.dll
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\DAL.dll
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\BLL.pdb
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\DTO.pdb
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\DAL.pdb
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.exe
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.pdb
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.AdminProduct.resources
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.AdminAddOrder.resources
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\QRCoder.dll
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\GUI.exe.config
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\GUI.exe
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\GUI.pdb
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\BLL.dll
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\DTO.dll
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\QRCoder.dll
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\DAL.dll
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\BLL.pdb
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\DTO.pdb
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\DAL.pdb
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.AdminAddOrder.resources
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.AdminAddUsers.resources
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.AdminDashboard.resources
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.AdminProduct.resources
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.login.resources
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.MainForm.resources
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.exe
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.pdb
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\GUI.exe.config
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\GUI.exe
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\GUI.pdb
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\BLL.dll
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\DTO.dll
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\QRCoder.dll
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\DAL.dll
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\BLL.pdb
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\DTO.pdb
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\DAL.pdb
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.AdminAddOrder.resources
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.AdminAddUsers.resources
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.AdminDashboard.resources
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.AdminProduct.resources
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.login.resources
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.MainForm.resources
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.exe
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.pdb
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\AForge.dll
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\AForge.Video.dll
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\zxing.dll
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\zxing.presentation.dll
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\AForge.xml
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\AForge.Video.xml
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\zxing.xml
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\bin\Debug\zxing.presentation.xml
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\GUI\obj\Debug\GUI.AddFeedback.resources

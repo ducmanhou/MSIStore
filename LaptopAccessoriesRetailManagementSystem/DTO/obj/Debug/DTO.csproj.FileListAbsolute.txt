@@ -1,0 +1,18 @@
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\DTO\bin\Debug\DTO.dll
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\DTO\bin\Debug\DTO.pdb
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\DTO\obj\Debug\DTO.dll
+D:\OU\HocKi2Nam 3\LTHCSDL\LaptopAccessoriesRetailManagementSystem\DTO\obj\Debug\DTO.pdb
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\DTO\bin\Debug\DTO.dll
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\DTO\bin\Debug\DTO.pdb
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\DTO\obj\Debug\DTO.dll
+C:\Users\asus\OneDrive\Máy tính\code\LTCSDL\MsiStore\LaptopAccessoriesRetailManagementSystem\DTO\obj\Debug\DTO.pdb
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\DTO\bin\Debug\DTO.dll
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\DTO\bin\Debug\DTO.pdb
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\DTO\obj\Debug\DTO.dll
+C:\Users\Duc Manh\Documents\Zalo Received Files\MsiStore (1)\LaptopAccessoriesRetailManagementSystem\DTO\obj\Debug\DTO.pdb
